@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 </div>
 
-[![github stats](https://github-readme-stats.vercel.app/api?username={l52w(string)}&count_private={false(bool)}&custom_title={title(string)}&bg_color={45,red,blue}&title_color={000000(hex)}&text_color={ffffff(hex)})](https://github.com/l52w/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api?username={l52w(string)}&count_private={false(bool)}&custom_title={title(string)}&bg_color={45,red,blue}&title_color={#000000(hex)}&text_color={#ffffff(hex)})](https://github.com/l52w/github-readme-stats)
