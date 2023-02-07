@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   </a>
 </h2>
 </div>
-- 💬 holamellamol52wesmiportfolio
+- 💬 ◡̎
 
 <div>
 <h2>👀 LANGUAGE 📖</h2>
