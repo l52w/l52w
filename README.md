@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 <div>
-<h2>🖐 HALO!
+<h2>🖐 HELLO!
   <a href="https://l52w.github.io/" target="_blank">
       <img src="https://img.shields.io/badge/GitHubPages-white"
           style="height : auto; margin-left : 8px; margin-right : 8px;"/>
