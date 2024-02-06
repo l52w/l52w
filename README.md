@@ -1,5 +1,6 @@
 <!-- ### Hi there 👋 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&text=L52W&fontSize=50)
+![header](https://capsule-render.vercel.app/api?
+type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
 
 <!--
 **l52w/l52w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
