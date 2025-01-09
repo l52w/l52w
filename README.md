@@ -22,3 +22,7 @@
 <br>
 <strong>Database</strong><br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> 
+<br>
+<strong>Framework</strong><br>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=plastic"/>
+<img src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white"/>
