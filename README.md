@@ -6,8 +6,8 @@
 </div>
 - 💬 ◡̎
 <br>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fl52w%2Fhit-counter&count_bg=%23939CE9&title_bg=%23D8D9E9&icon=&icon_color=%23FFFFFF&title=Hello&edge_flat=false"/></a>
-<a href="https://l52w.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitHubPages-white" style="height : auto; margin-left : 8px; margin-right : 8px;"/></a>
+<!-- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fl52w%2Fhit-counter&count_bg=%23939CE9&title_bg=%23D8D9E9&icon=&icon_color=%23FFFFFF&title=Hello&edge_flat=false"/></a> -->
+<!-- <a href="https://l52w.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitHubPages-white" style="height : auto; margin-left : 8px; margin-right : 8px;"/></a> -->
 
 <div>
 <h2>👀 LANGUAGE 📖</h2>
@@ -26,4 +26,4 @@
 <br>
 <strong>Framework</strong><br>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=plastic"/>
-<img src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white"/> -->
