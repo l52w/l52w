@@ -7,7 +7,7 @@
 - 💬 ◡̎
 <br>
 <!-- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fl52w%2Fhit-counter&count_bg=%23939CE9&title_bg=%23D8D9E9&icon=&icon_color=%23FFFFFF&title=Hello&edge_flat=false"/></a> -->
-<!-- <a href="https://l52w.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitHubPages-white" style="height : auto; margin-left : 8px; margin-right : 8px;"/></a> -->
+<a href="https://l52w.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitHubPages-white" style="height : auto; margin-left : 8px; margin-right : 8px;"/></a>
 
 <div>
 <h2>👀 LANGUAGE 📖</h2>
